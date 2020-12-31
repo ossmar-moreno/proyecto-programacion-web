@@ -1,0 +1,24 @@
+{
+  "name": "bienes-raices",
+  "version": "1.0.0",
+  "description": "sin acabar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Ossmar-R-Moreno@bitbucket.org/Ossmar-R-Moreno/bienes-raices.git"
+  },
+  "author": "Edgar Ossmar Ramos Moreno",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Ossmar-R-Moreno/bienes-raices#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "popper": "^1.0.1"
+  }
+}
